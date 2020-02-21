@@ -1,10 +1,10 @@
-# 1 on 1 Meeting Questions
-Mega list compiled from a variety to sources. Also available here: http://www.managersclub.com/mega-list-of-1-on-1-meeting-questions/
+# Questões para reuniões de 1-1 (One-One)
+These questions is based on the VGraupera's list and I encourage you the reading: https://github.com/VGraupera/1on1-questions
 
 
-## About Manager
-* Are there any obstacles I can remove for you?
-* As your manager, what would you like me to stop, start, or continue doing?
+## Questões sobre a liderança 
+* Que problemas ou obstáculos você entende que eu poderia ajudar a encaminhar ou resolver?
+* Como um/a gestor/a, que atitudes você gostaria que eu não fizesse mais, que eu poderia fazer e que eu continuasse fazendo?
 * At what point in the past week were you most frustrated with or discouraged by your work? What can I do to help you manage that?
 * Do you feel you’re getting enough feedback? Why/why not?
 * Do you have any feedback for me?
